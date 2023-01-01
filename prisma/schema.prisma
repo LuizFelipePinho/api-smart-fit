@@ -1,0 +1,56 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Tb_situation {
+  id_situation Int     @id @default(autoincrement())
+  opened       Boolean
+  mask         String  @db.VarChar(200)
+  towel        String  @db.VarChar(200)
+  fountain     String  @db.VarChar(200)
+  locker_room  String  @db.VarChar(200)
+  tb_unit   Tb_unit?
+}
+
+model Tb_address {
+  id_address Int     @id @default(autoincrement())
+  street     String  @db.VarChar(200)
+  number     String? @db.VarChar(45)
+  city       String  @db.VarChar(200)
+  state      String  @db.VarChar(200)
+  tb_unit   Tb_unit?
+}
+
+model Tb_schedules {
+  id_schedules Int    @id @default(autoincrement())
+  week_days    String @db.VarChar(200)
+  hour         String @db.VarChar(200)
+  id_unit Tb_unit_schedules[]
+}
+
+model Tb_unit {
+  id_unit Int    @id @default(autoincrement())
+  name    String @db.VarChar(150)
+  tb_address Tb_address @relation(fields: [Fk_id_address], references: [id_address])
+  Fk_id_address Int @unique
+  tb_situation Tb_situation @relation(fields: [Fk_id_situation], references: [id_situation])
+  Fk_id_situation Int @unique
+  tb_schedules  Tb_unit_schedules[]
+}
+
+model Tb_unit_schedules {
+  tb_unit Tb_unit @relation(fields: [Fk_id_unit], references: [id_unit])
+  Fk_id_unit Int @unique
+  tb_schedules Tb_schedules @relation(fields: [Fk_id_schedules], references: [id_schedules])
+  Fk_id_schedules Int @unique
+
+  @@id([Fk_id_unit, Fk_id_schedules])
+}

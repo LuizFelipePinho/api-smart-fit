@@ -15,6 +15,7 @@ CREATE TABLE `Tb_address` (
     `id_address` INTEGER NOT NULL AUTO_INCREMENT,
     `street` VARCHAR(200) NOT NULL,
     `number` VARCHAR(45) NULL,
+    `district` VARCHAR(200) NOT NULL,
     `city` VARCHAR(200) NOT NULL,
     `state` VARCHAR(200) NOT NULL,
 

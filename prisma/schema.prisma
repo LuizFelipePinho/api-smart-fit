@@ -24,6 +24,7 @@ model Tb_address {
   id_address Int     @id @default(autoincrement())
   street     String  @db.VarChar(200)
   number     String? @db.VarChar(45)
+  district   String  @db.VarChar(200)
   city       String  @db.VarChar(200)
   state      String  @db.VarChar(200)
   tb_unit   Tb_unit?

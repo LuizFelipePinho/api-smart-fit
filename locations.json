@@ -430,38 +430,6 @@
       ]
     },
     {
-      "id": 10998878976073,
-      "title": "Araçatuba",
-      "content": "\n<p>Av. Joaquim Pompeu de Toledo, 601 &#8211; Vila Estádio<br>Araçatuba, SP</p>\n",
-      "opened": true,
-      "mask": "required",
-      "towel": "required",
-      "fountain": "partial",
-      "locker_room": "closed",
-      "schedules": [
-        {
-          "weekdays": "Seg. à Sex.",
-          "hour": "06h às 08h"
-        },
-        {
-          "weekdays": "Seg. à Sex.",
-          "hour": "17h às 21h"
-        },
-        {
-          "weekdays": "Sáb.",
-          "hour": "12h às 18h"
-        },
-        {
-          "weekdays": "Dom.",
-          "hour": "Fechada"
-        },
-        {
-          "weekdays": "Obs.:",
-          "hour": "Obrigatório o uso de luvas descartáveis."
-        }
-      ]
-    },
-    {
       "id": 10998878976072,
       "title": "Jacareí",
       "content": "\n<p>Av. Sen. Joaquim Miguel M. de Siqueira &#8211; Jardim Pereira do Amparo<br>Jacareí, SP</p>\n",

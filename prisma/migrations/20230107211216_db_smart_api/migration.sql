@@ -25,8 +25,10 @@ CREATE TABLE `Tb_address` (
 -- CreateTable
 CREATE TABLE `Tb_schedules` (
     `id_schedules` INTEGER NOT NULL AUTO_INCREMENT,
-    `week_days` VARCHAR(200) NOT NULL,
-    `hour` VARCHAR(200) NOT NULL,
+    `weekday_open` VARCHAR(50) NOT NULL,
+    `weekday_close` VARCHAR(50) NOT NULL,
+    `weekday_hour_open` VARCHAR(50) NOT NULL,
+    `weekday_hour_close` VARCHAR(50) NOT NULL,
 
     PRIMARY KEY (`id_schedules`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
@@ -48,8 +50,6 @@ CREATE TABLE `Tb_unit_schedules` (
     `Fk_id_unit` INTEGER NOT NULL,
     `Fk_id_schedules` INTEGER NOT NULL,
 
-    UNIQUE INDEX `Tb_unit_schedules_Fk_id_unit_key`(`Fk_id_unit`),
-    UNIQUE INDEX `Tb_unit_schedules_Fk_id_schedules_key`(`Fk_id_schedules`),
     PRIMARY KEY (`Fk_id_unit`, `Fk_id_schedules`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 

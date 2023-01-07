@@ -6,9 +6,9 @@ const app = express()
 
 app.use(express.json())
 
-app.get('/unit', async (req, res) => {
+app.get('/units', async (req, res) => {
  
-  const users = await prisma.tb_unit.findMany({
+  const units = await prisma.tb_unit.findMany({
   
     include: {
       tb_address: true,
@@ -23,7 +23,7 @@ app.get('/unit', async (req, res) => {
   })
 
 
-  res.json(users)
+  res.json(units)
 })
 
 

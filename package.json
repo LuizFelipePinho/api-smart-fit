@@ -16,7 +16,6 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/node": "^7.20.7",
-    "netlify-cli": "^12.7.2",
     "nodemon": "^2.0.20",
     "prisma": "^4.8.0"
   },

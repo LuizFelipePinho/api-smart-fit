@@ -1,5 +1,6 @@
 import { Prisma, PrismaClient } from '@prisma/client'
 import express from 'express'
+const port = process.env.PORT || 3000
 
 const prisma = new PrismaClient()
 const app = express()
@@ -26,9 +27,7 @@ app.get('/units', async (req, res) => {
   res.json(units)
 })
 
-
-const server = app.listen(3000, () =>
+const server = app.listen(port, () =>
   console.log(`
-🚀 Server ready at: http://localhost:3000
-⭐️ See sample requests: http://pris.ly/e/ts/rest-express#3-using-the-rest-api`),
+🚀 Server ready at: http://localhost:${port}`),
 )

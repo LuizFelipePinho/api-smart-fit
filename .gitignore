@@ -4,3 +4,5 @@ node_modules
 FixApi.js
 src/seed.js
 ./locations.json
+# Local Netlify folder
+.netlify

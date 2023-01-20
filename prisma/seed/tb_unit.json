@@ -1,0 +1,608 @@
+[
+	{
+		"id_unit" : 1,
+		"name" : "GV Shopping",
+		"Fk_id_address" : 4,
+		"Fk_id_situation" : 4
+	},
+	{
+		"id_unit" : 2,
+		"name" : "Avenida Mascote",
+		"Fk_id_address" : 2,
+		"Fk_id_situation" : 3
+	},
+	{
+		"id_unit" : 3,
+		"name" : "Dom Severino",
+		"Fk_id_address" : 1,
+		"Fk_id_situation" : 1
+	},
+	{
+		"id_unit" : 4,
+		"name" : "Teresina Shopping",
+		"Fk_id_address" : 3,
+		"Fk_id_situation" : 2
+	},
+	{
+		"id_unit" : 5,
+		"name" : "Rui Barbosa",
+		"Fk_id_address" : 6,
+		"Fk_id_situation" : 7
+	},
+	{
+		"id_unit" : 6,
+		"name" : "Parnamirim Centro",
+		"Fk_id_address" : 9,
+		"Fk_id_situation" : 6
+	},
+	{
+		"id_unit" : 7,
+		"name" : "Litoral Plaza",
+		"Fk_id_address" : 5,
+		"Fk_id_situation" : 5
+	},
+	{
+		"id_unit" : 8,
+		"name" : "Parque Shopping Bahia",
+		"Fk_id_address" : 8,
+		"Fk_id_situation" : 8
+	},
+	{
+		"id_unit" : 9,
+		"name" : "Cambuí II",
+		"Fk_id_address" : 7,
+		"Fk_id_situation" : 9
+	},
+	{
+		"id_unit" : 10,
+		"name" : "Bauru",
+		"Fk_id_address" : 10,
+		"Fk_id_situation" : 10
+	},
+	{
+		"id_unit" : 11,
+		"name" : "Limeira",
+		"Fk_id_address" : 11,
+		"Fk_id_situation" : 13
+	},
+	{
+		"id_unit" : 12,
+		"name" : "Presidente Prudente",
+		"Fk_id_address" : 12,
+		"Fk_id_situation" : 11
+	},
+	{
+		"id_unit" : 13,
+		"name" : "Fraga Maia",
+		"Fk_id_address" : 14,
+		"Fk_id_situation" : 14
+	},
+	{
+		"id_unit" : 14,
+		"name" : "Frei Aureliano",
+		"Fk_id_address" : 13,
+		"Fk_id_situation" : 12
+	},
+	{
+		"id_unit" : 15,
+		"name" : "Araras",
+		"Fk_id_address" : 16,
+		"Fk_id_situation" : 15
+	},
+	{
+		"id_unit" : 16,
+		"name" : "Maracanaú",
+		"Fk_id_address" : 15,
+		"Fk_id_situation" : 16
+	},
+	{
+		"id_unit" : 17,
+		"name" : "Shopping Santa Úrsula",
+		"Fk_id_address" : 19,
+		"Fk_id_situation" : 19
+	},
+	{
+		"id_unit" : 18,
+		"name" : "Trio",
+		"Fk_id_address" : 18,
+		"Fk_id_situation" : 17
+	},
+	{
+		"id_unit" : 19,
+		"name" : "Jundiaí Shopping",
+		"Fk_id_address" : 21,
+		"Fk_id_situation" : 20
+	},
+	{
+		"id_unit" : 20,
+		"name" : "Paulínia",
+		"Fk_id_address" : 17,
+		"Fk_id_situation" : 18
+	},
+	{
+		"id_unit" : 21,
+		"name" : "Rio Claro",
+		"Fk_id_address" : 22,
+		"Fk_id_situation" : 21
+	},
+	{
+		"id_unit" : 22,
+		"name" : "Mogi Guaçu",
+		"Fk_id_address" : 20,
+		"Fk_id_situation" : 23
+	},
+	{
+		"id_unit" : 23,
+		"name" : "Av. 31 de Março",
+		"Fk_id_address" : 24,
+		"Fk_id_situation" : 24
+	},
+	{
+		"id_unit" : 24,
+		"name" : "Americana",
+		"Fk_id_address" : 23,
+		"Fk_id_situation" : 22
+	},
+	{
+		"id_unit" : 25,
+		"name" : "Barão Geraldo",
+		"Fk_id_address" : 26,
+		"Fk_id_situation" : 25
+	},
+	{
+		"id_unit" : 26,
+		"name" : "Sumaré",
+		"Fk_id_address" : 27,
+		"Fk_id_situation" : 26
+	},
+	{
+		"id_unit" : 27,
+		"name" : "Parque das Bandeiras",
+		"Fk_id_address" : 30,
+		"Fk_id_situation" : 31
+	},
+	{
+		"id_unit" : 28,
+		"name" : "Hortolândia",
+		"Fk_id_address" : 25,
+		"Fk_id_situation" : 27
+	},
+	{
+		"id_unit" : 29,
+		"name" : "Prado Boulevard",
+		"Fk_id_address" : 31,
+		"Fk_id_situation" : 29
+	},
+	{
+		"id_unit" : 30,
+		"name" : "Taubaté",
+		"Fk_id_address" : 28,
+		"Fk_id_situation" : 28
+	},
+	{
+		"id_unit" : 31,
+		"name" : "Aquarius",
+		"Fk_id_address" : 29,
+		"Fk_id_situation" : 30
+	},
+	{
+		"id_unit" : 32,
+		"name" : "Satélite",
+		"Fk_id_address" : 32,
+		"Fk_id_situation" : 32
+	},
+	{
+		"id_unit" : 33,
+		"name" : "Campinas Shopping",
+		"Fk_id_address" : 34,
+		"Fk_id_situation" : 33
+	},
+	{
+		"id_unit" : 34,
+		"name" : "Rua Quinze de Novembro",
+		"Fk_id_address" : 37,
+		"Fk_id_situation" : 35
+	},
+	{
+		"id_unit" : 35,
+		"name" : "Abolição",
+		"Fk_id_address" : 33,
+		"Fk_id_situation" : 34
+	},
+	{
+		"id_unit" : 36,
+		"name" : "Maxi Shopping",
+		"Fk_id_address" : 35,
+		"Fk_id_situation" : 36
+	},
+	{
+		"id_unit" : 37,
+		"name" : "Campolim",
+		"Fk_id_address" : 39,
+		"Fk_id_situation" : 38
+	},
+	{
+		"id_unit" : 38,
+		"name" : "Jorge Krug",
+		"Fk_id_address" : 36,
+		"Fk_id_situation" : 37
+	},
+	{
+		"id_unit" : 39,
+		"name" : "Center Vale",
+		"Fk_id_address" : 38,
+		"Fk_id_situation" : 39
+	},
+	{
+		"id_unit" : 40,
+		"name" : "Pátio Cianê",
+		"Fk_id_address" : 41,
+		"Fk_id_situation" : 40
+	},
+	{
+		"id_unit" : 41,
+		"name" : "Shopping Cidade Sorocaba",
+		"Fk_id_address" : 42,
+		"Fk_id_situation" : 41
+	},
+	{
+		"id_unit" : 42,
+		"name" : "Pereira Inácio",
+		"Fk_id_address" : 40,
+		"Fk_id_situation" : 42
+	},
+	{
+		"id_unit" : 43,
+		"name" : "Indaiatuba",
+		"Fk_id_address" : 43,
+		"Fk_id_situation" : 43
+	},
+	{
+		"id_unit" : 44,
+		"name" : "Graça",
+		"Fk_id_address" : 45,
+		"Fk_id_situation" : 44
+	},
+	{
+		"id_unit" : 45,
+		"name" : "Itaigara",
+		"Fk_id_address" : 47,
+		"Fk_id_situation" : 45
+	},
+	{
+		"id_unit" : 46,
+		"name" : "Shopping Piedade",
+		"Fk_id_address" : 46,
+		"Fk_id_situation" : 46
+	},
+	{
+		"id_unit" : 47,
+		"name" : "Cabula",
+		"Fk_id_address" : 50,
+		"Fk_id_situation" : 49
+	},
+	{
+		"id_unit" : 48,
+		"name" : "Imbuí I",
+		"Fk_id_address" : 49,
+		"Fk_id_situation" : 50
+	},
+	{
+		"id_unit" : 49,
+		"name" : "Avenida Jorge Amado",
+		"Fk_id_address" : 48,
+		"Fk_id_situation" : 47
+	},
+	{
+		"id_unit" : 50,
+		"name" : "Matatu",
+		"Fk_id_address" : 44,
+		"Fk_id_situation" : 48
+	},
+	{
+		"id_unit" : 51,
+		"name" : "Costa Azul",
+		"Fk_id_address" : 52,
+		"Fk_id_situation" : 51
+	},
+	{
+		"id_unit" : 52,
+		"name" : "Búzios",
+		"Fk_id_address" : 54,
+		"Fk_id_situation" : 53
+	},
+	{
+		"id_unit" : 53,
+		"name" : "Itabuna",
+		"Fk_id_address" : 55,
+		"Fk_id_situation" : 54
+	},
+	{
+		"id_unit" : 54,
+		"name" : "Caminho das Árvores",
+		"Fk_id_address" : 51,
+		"Fk_id_situation" : 52
+	},
+	{
+		"id_unit" : 55,
+		"name" : "Campos dos Goytacazes",
+		"Fk_id_address" : 53,
+		"Fk_id_situation" : 55
+	},
+	{
+		"id_unit" : 56,
+		"name" : "Volta Redonda",
+		"Fk_id_address" : 56,
+		"Fk_id_situation" : 56
+	},
+	{
+		"id_unit" : 57,
+		"name" : "Mossoró",
+		"Fk_id_address" : 57,
+		"Fk_id_situation" : 57
+	},
+	{
+		"id_unit" : 58,
+		"name" : "Ville Roy",
+		"Fk_id_address" : 59,
+		"Fk_id_situation" : 59
+	},
+	{
+		"id_unit" : 59,
+		"name" : "Caruaru",
+		"Fk_id_address" : 58,
+		"Fk_id_situation" : 58
+	},
+	{
+		"id_unit" : 60,
+		"name" : "João Alencar",
+		"Fk_id_address" : 60,
+		"Fk_id_situation" : 60
+	},
+	{
+		"id_unit" : 61,
+		"name" : "Midway",
+		"Fk_id_address" : 62,
+		"Fk_id_situation" : 61
+	},
+	{
+		"id_unit" : 62,
+		"name" : "Avenida Roberto Freire",
+		"Fk_id_address" : 64,
+		"Fk_id_situation" : 63
+	},
+	{
+		"id_unit" : 63,
+		"name" : "Tirol",
+		"Fk_id_address" : 61,
+		"Fk_id_situation" : 62
+	},
+	{
+		"id_unit" : 64,
+		"name" : "Vilar dos Teles",
+		"Fk_id_address" : 65,
+		"Fk_id_situation" : 65
+	},
+	{
+		"id_unit" : 65,
+		"name" : "Shopping Grande Rio",
+		"Fk_id_address" : 63,
+		"Fk_id_situation" : 64
+	},
+	{
+		"id_unit" : 66,
+		"name" : "Maceió Shopping",
+		"Fk_id_address" : 66,
+		"Fk_id_situation" : 66
+	},
+	{
+		"id_unit" : 67,
+		"name" : "Pátio Maceió",
+		"Fk_id_address" : 67,
+		"Fk_id_situation" : 67
+	},
+	{
+		"id_unit" : 68,
+		"name" : "Palato",
+		"Fk_id_address" : 68,
+		"Fk_id_situation" : 68
+	},
+	{
+		"id_unit" : 69,
+		"name" : "Largo do Taboão",
+		"Fk_id_address" : 69,
+		"Fk_id_situation" : 69
+	},
+	{
+		"id_unit" : 70,
+		"name" : "Jardim das Américas",
+		"Fk_id_address" : 71,
+		"Fk_id_situation" : 71
+	},
+	{
+		"id_unit" : 71,
+		"name" : "São Carlos",
+		"Fk_id_address" : 70,
+		"Fk_id_situation" : 70
+	},
+	{
+		"id_unit" : 72,
+		"name" : "Rubens de Mendonça",
+		"Fk_id_address" : 72,
+		"Fk_id_situation" : 72
+	},
+	{
+		"id_unit" : 73,
+		"name" : "Parangaba",
+		"Fk_id_address" : 73,
+		"Fk_id_situation" : 73
+	},
+	{
+		"id_unit" : 74,
+		"name" : "Goiabeiras",
+		"Fk_id_address" : 74,
+		"Fk_id_situation" : 74
+	},
+	{
+		"id_unit" : 75,
+		"name" : "Dom Lustosa",
+		"Fk_id_address" : 76,
+		"Fk_id_situation" : 76
+	},
+	{
+		"id_unit" : 76,
+		"name" : "Messejana",
+		"Fk_id_address" : 75,
+		"Fk_id_situation" : 75
+	},
+	{
+		"id_unit" : 77,
+		"name" : "Cocó",
+		"Fk_id_address" : 78,
+		"Fk_id_situation" : 77
+	},
+	{
+		"id_unit" : 78,
+		"name" : "Vila Peri",
+		"Fk_id_address" : 79,
+		"Fk_id_situation" : 79
+	},
+	{
+		"id_unit" : 79,
+		"name" : "Washington Soares",
+		"Fk_id_address" : 82,
+		"Fk_id_situation" : 78
+	},
+	{
+		"id_unit" : 80,
+		"name" : "Barão de Studart",
+		"Fk_id_address" : 81,
+		"Fk_id_situation" : 81
+	},
+	{
+		"id_unit" : 81,
+		"name" : "Barbosa de Freitas",
+		"Fk_id_address" : 80,
+		"Fk_id_situation" : 80
+	},
+	{
+		"id_unit" : 82,
+		"name" : "Via Sul Shopping",
+		"Fk_id_address" : 77,
+		"Fk_id_situation" : 82
+	},
+	{
+		"id_unit" : 83,
+		"name" : "North Shopping",
+		"Fk_id_address" : 83,
+		"Fk_id_situation" : 83
+	},
+	{
+		"id_unit" : 84,
+		"name" : "Meireles",
+		"Fk_id_address" : 87,
+		"Fk_id_situation" : 84
+	},
+	{
+		"id_unit" : 85,
+		"name" : "Vicente Linhares",
+		"Fk_id_address" : 85,
+		"Fk_id_situation" : 85
+	},
+	{
+		"id_unit" : 86,
+		"name" : "Montese",
+		"Fk_id_address" : 86,
+		"Fk_id_situation" : 86
+	},
+	{
+		"id_unit" : 87,
+		"name" : "Papicu",
+		"Fk_id_address" : 84,
+		"Fk_id_situation" : 87
+	},
+	{
+		"id_unit" : 88,
+		"name" : "Cariacica",
+		"Fk_id_address" : 90,
+		"Fk_id_situation" : 88
+	},
+	{
+		"id_unit" : 89,
+		"name" : "North Shopping Jóquei",
+		"Fk_id_address" : 89,
+		"Fk_id_situation" : 90
+	},
+	{
+		"id_unit" : 90,
+		"name" : "Praia do Canto I",
+		"Fk_id_address" : 94,
+		"Fk_id_situation" : 92
+	},
+	{
+		"id_unit" : 91,
+		"name" : "Iracema",
+		"Fk_id_address" : 91,
+		"Fk_id_situation" : 91
+	},
+	{
+		"id_unit" : 92,
+		"name" : "Oliveira Paiva",
+		"Fk_id_address" : 88,
+		"Fk_id_situation" : 89
+	},
+	{
+		"id_unit" : 93,
+		"name" : "Reta da Penha",
+		"Fk_id_address" : 92,
+		"Fk_id_situation" : 94
+	},
+	{
+		"id_unit" : 94,
+		"name" : "Serra",
+		"Fk_id_address" : 93,
+		"Fk_id_situation" : 95
+	},
+	{
+		"id_unit" : 95,
+		"name" : "Centro Vila Velha",
+		"Fk_id_address" : 96,
+		"Fk_id_situation" : 96
+	},
+	{
+		"id_unit" : 96,
+		"name" : "Praia do Canto II",
+		"Fk_id_address" : 95,
+		"Fk_id_situation" : 93
+	},
+	{
+		"id_unit" : 97,
+		"name" : "Macapá",
+		"Fk_id_address" : 98,
+		"Fk_id_situation" : 99
+	},
+	{
+		"id_unit" : 98,
+		"name" : "Suzano",
+		"Fk_id_address" : 99,
+		"Fk_id_situation" : 98
+	},
+	{
+		"id_unit" : 99,
+		"name" : "Buriti Shopping",
+		"Fk_id_address" : 97,
+		"Fk_id_situation" : 97
+	},
+	{
+		"id_unit" : 100,
+		"name" : "Ingá",
+		"Fk_id_address" : 101,
+		"Fk_id_situation" : 101
+	},
+	{
+		"id_unit" : 101,
+		"name" : "Moreira César",
+		"Fk_id_address" : 100,
+		"Fk_id_situation" : 100
+	}
+]

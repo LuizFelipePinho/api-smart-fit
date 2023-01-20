@@ -1,0 +1,810 @@
+[
+	{
+		"id_address" : 1,
+		"street" : "Av. Dom Severino",
+		"number" : "1733",
+		"district" : "Fátima",
+		"city" : "Teresina",
+		"state" : "PI"
+	},
+	{
+		"id_address" : 2,
+		"street" : "Av. Mascote",
+		"number" : "159",
+		"district" : "Vila Mascote",
+		"city" : "São Paulo",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 3,
+		"street" : "Av. Raul Lopes",
+		"number" : "1000",
+		"district" : "Noivos",
+		"city" : "Teresina",
+		"state" : "PI"
+	},
+	{
+		"id_address" : 4,
+		"street" : "Rua Sete de Setembro",
+		"number" : "3500",
+		"district" : "Centro",
+		"city" : "Governador Valadares",
+		"state" : "MG"
+	},
+	{
+		"id_address" : 5,
+		"street" : "Avenida Ayrton Senna da Silva",
+		"number" : "1511",
+		"district" : "Tude Bastos (Sítio do Campo)",
+		"city" : "Praia Grande",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 6,
+		"street" : "Avenida Rui Barbosa",
+		"number" : "2727",
+		"district" : "Joaquim Távora",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 7,
+		"street" : "Rua Quatorze de Dezembro",
+		"number" : "483",
+		"district" : "Centro",
+		"city" : "Campinas",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 8,
+		"street" : "Avenida Santos Dumont",
+		"number" : "4360",
+		"district" : "Centro",
+		"city" : "Lauro de Freitas",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 9,
+		"street" : "Avenida Brigadeiro Everaldo Breves",
+		"number" : "780",
+		"district" : "Centro",
+		"city" : "Parnamirim",
+		"state" : "RN"
+	},
+	{
+		"id_address" : 10,
+		"street" : "Av. Getúlio Vargas",
+		"number" : "25-16",
+		"district" : "Vila Aviação",
+		"city" : "Bauru",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 11,
+		"street" : "Avenida Campinas",
+		"number" : "50",
+		"district" : "Vila Cidade Jardim",
+		"city" : "Limeira",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 12,
+		"street" : "Rua Siqueira Campos",
+		"number" : "1545",
+		"district" : "Vila Roberto",
+		"city" : "Presidente Prudente",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 13,
+		"street" : "Rua Frei Aureliano Grottamari",
+		"number" : "679",
+		"district" : "Capuchinhos",
+		"city" : "Feira de Santana",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 14,
+		"street" : "Av. Francisco Fraga Maia",
+		"number" : "4727",
+		"district" : "Cidade Nova",
+		"city" : "Feira de Santana",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 15,
+		"street" : "Avenida Carlos Jereissati",
+		"number" : "100",
+		"district" : "Jereissati II",
+		"city" : "Maracanaú",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 16,
+		"street" : "Av. Dona Renata",
+		"number" : "2954",
+		"district" : "Parque Santa Cândida",
+		"city" : "Araras",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 17,
+		"street" : "Rua Bolívia",
+		"number" : "60",
+		"district" : "Jardim América",
+		"city" : "Paulínia",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 18,
+		"street" : "Avenida Presidente Vargas",
+		"number" : "1265",
+		"district" : "Jardim São Luiz",
+		"city" : "Ribeirão Preto",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 19,
+		"street" : "Rua São José",
+		"number" : "933",
+		"district" : "Centro",
+		"city" : "Ribeirão Preto",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 20,
+		"street" : "Av. Mogi Mirim",
+		"number" : "210",
+		"district" : "Centro",
+		"city" : "Mogi Guaçu",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 21,
+		"street" : "Avenida Nove de Julho",
+		"number" : "3333",
+		"district" : "Anhangabaú",
+		"city" : "Jundiaí",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 22,
+		"street" : "Rua 14",
+		"number" : "289",
+		"district" : "Estádio",
+		"city" : "Rio Claro",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 23,
+		"street" : "Avenida Brasil",
+		"number" : "1955",
+		"district" : "Jardim São Paulo",
+		"city" : "Americana",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 24,
+		"street" : "Avenida Trinta e Um de Março",
+		"number" : "1533",
+		"district" : "Paulicéia",
+		"city" : "Piracicaba",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 25,
+		"street" : "Rua José Camilo de Camargo",
+		"number" : "05",
+		"district" : "Loteamento Remanso Campineiro",
+		"city" : "Hortolândia",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 26,
+		"street" : "Avenida Santa Isabel",
+		"number" : "1030",
+		"district" : "Vila Santa Isabel",
+		"city" : "Campinas",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 27,
+		"street" : "Praça da República",
+		"number" : "148",
+		"district" : "Centro",
+		"city" : "Sumaré",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 28,
+		"street" : "Avenida Itália",
+		"number" : "850",
+		"district" : "Jardim das nações",
+		"city" : "Taubaté",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 29,
+		"street" : "Av. Comendador Vicente de Paulo Penido",
+		"number" : "251",
+		"district" : "Parque Res. Aquarius",
+		"city" : "São José dos Campos",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 30,
+		"street" : "Av. John Boyd Dunlop",
+		"number" : "3900",
+		"district" : "Jardim Ipaussurama",
+		"city" : "Campinas",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 31,
+		"street" : "Avenida Washington Luís",
+		"number" : "2480",
+		"district" : "Vila Marieta",
+		"city" : "Campinas",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 32,
+		"street" : "R. Pedro Tursi",
+		"number" : "180",
+		"district" : "Jardim Satélite",
+		"city" : "São José dos Campos",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 33,
+		"street" : "Rua da Abolição",
+		"number" : "2013",
+		"district" : "Ponte Preta",
+		"city" : "Campinas",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 34,
+		"street" : "Rua Jacy Teixeira Camargo",
+		"number" : "940",
+		"district" : "Jardim do Lago",
+		"city" : "Campinas",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 35,
+		"street" : "Av. Antônio Frederico Ozanan",
+		"number" : "6000",
+		"district" : "Jardim Liberdade",
+		"city" : "Jundiaí",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 36,
+		"street" : "Rua Jorge Krug",
+		"number" : "177",
+		"district" : "Guanabara",
+		"city" : "Campinas",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 37,
+		"street" : "Rua Quinze de Novembro",
+		"number" : "1.000",
+		"district" : "Centro",
+		"city" : "Jundiaí",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 38,
+		"street" : "Av. Deputado Benedito Matarazzo",
+		"number" : "9403",
+		"district" : "Jardim Oswaldo Cruz",
+		"city" : "São José dos Campos",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 39,
+		"street" : "Avenida Antônio Carlos Comitre",
+		"number" : "2051",
+		"district" : "Parque Campolim",
+		"city" : "Sorocaba",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 40,
+		"street" : "Avenida Comendador Pereira Inácio",
+		"number" : "820",
+		"district" : "Jardim Vergueiro",
+		"city" : "Sorocaba",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 41,
+		"street" : "Av. Doutor Afonso Vergueiro",
+		"number" : "823",
+		"district" : "Centro",
+		"city" : "Sorocaba",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 42,
+		"street" : "Av. Itavuvu",
+		"number" : "3365",
+		"district" : "Jardim Santa Cecília",
+		"city" : "Sorocaba",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 43,
+		"street" : "Rua das Primaveras",
+		"number" : "1050",
+		"district" : "Jardim Pompéia",
+		"city" : "Indaiatuba",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 44,
+		"street" : "Rua Barros Falcão",
+		"number" : "453",
+		"district" : "Matatu",
+		"city" : "Salvador",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 45,
+		"street" : "Rua Oito de Dezembro",
+		"number" : "525",
+		"district" : "Graça",
+		"city" : "Salvador",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 46,
+		"street" : "Rua Conselheiro Junqueira Ayres",
+		"number" : "165",
+		"district" : "Barris",
+		"city" : "Salvador",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 47,
+		"street" : "R. Wanderley Pinho",
+		"number" : "527",
+		"district" : "Itaigara",
+		"city" : "Salvador",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 48,
+		"street" : "Avenida Jorge Amado",
+		"number" : "1834",
+		"district" : "Imbuí",
+		"city" : "Salvador",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 49,
+		"street" : "Rua dos Colibris",
+		"number" : "337",
+		"district" : "Imbuí",
+		"city" : "Salvador",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 50,
+		"street" : "Rua Silveira Martins",
+		"number" : "165",
+		"district" : "Cabula",
+		"city" : "Salvador",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 51,
+		"street" : "Alameda das Espatódeas",
+		"number" : "138",
+		"district" : "Caminho das Árvores",
+		"city" : "Salvador",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 52,
+		"street" : "R. Prof. Lourival Pimenta Bastos",
+		"number" : "368",
+		"district" : "Costa Azul",
+		"city" : "Salvador",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 53,
+		"street" : "Rua Barão de Miracema",
+		"number" : "287",
+		"district" : "Centro",
+		"city" : "Campos dos Goytacazes",
+		"state" : "RJ"
+	},
+	{
+		"id_address" : 54,
+		"street" : "Rua das Pedras",
+		"number" : "73",
+		"district" : "Dantas",
+		"city" : "Armação dos Búzios",
+		"state" : "RJ"
+	},
+	{
+		"id_address" : 55,
+		"street" : "Avenida Aziz Maron",
+		"number" : "s",
+		"district" : "Jardim Vitória",
+		"city" : "Itabuna",
+		"state" : "BA"
+	},
+	{
+		"id_address" : 56,
+		"street" : "Av. Amaral Peixoto",
+		"number" : "555",
+		"district" : "Centro",
+		"city" : "Volta Redonda",
+		"state" : "RJ"
+	},
+	{
+		"id_address" : 57,
+		"street" : " Rua João da Escóssia",
+		"number" : "1102",
+		"district" : "Nova Betânia",
+		"city" : "Mossoró",
+		"state" : "RN"
+	},
+	{
+		"id_address" : 58,
+		"street" : "Rua Adjar da Silva Casé",
+		"number" : "800",
+		"district" : "Indianópolis",
+		"city" : "Caruaru",
+		"state" : "PE"
+	},
+	{
+		"id_address" : 59,
+		"street" : "Avenida Ville Roy",
+		"number" : "1544(DentrodoRoraimaGardenShopping)",
+		"district" : "Caçari",
+		"city" : "Boa Vista",
+		"state" : "RR"
+	},
+	{
+		"id_address" : 60,
+		"street" : "Av. Joao Alencar",
+		"number" : "2181",
+		"district" : "Cauamé",
+		"city" : "Boa Vista",
+		"state" : "RR"
+	},
+	{
+		"id_address" : 61,
+		"street" : "Avenida Prudente Morais",
+		"number" : "777",
+		"district" : "Tirol",
+		"city" : "Natal",
+		"state" : "RN"
+	},
+	{
+		"id_address" : 62,
+		"street" : "Avenida Bernardo Vieira",
+		"number" : "3775",
+		"district" : "Tirol",
+		"city" : "Natal",
+		"state" : "RN"
+	},
+	{
+		"id_address" : 63,
+		"street" : "Rua Maria Soares Sendas",
+		"number" : "111",
+		"district" : "Parque Barreto",
+		"city" : "São João de Meriti",
+		"state" : "RJ"
+	},
+	{
+		"id_address" : 64,
+		"street" : "Avenida Engenheiro Roberto Freire",
+		"number" : "2020",
+		"district" : "Capim Macio",
+		"city" : "Natal",
+		"state" : "RN"
+	},
+	{
+		"id_address" : 65,
+		"street" : "Av. Automóvel Clube",
+		"number" : "2487",
+		"district" : "Vilar dos Teles",
+		"city" : "São João de Meriti",
+		"state" : "RJ"
+	},
+	{
+		"id_address" : 66,
+		"street" : " Av. Comendador Gustavo Paiva",
+		"number" : "2990",
+		"district" : "Mangabeiras",
+		"city" : "Maceió",
+		"state" : "AL"
+	},
+	{
+		"id_address" : 67,
+		"street" : "Avenida Menino Marcelo",
+		"number" : "3800",
+		"district" : "Cidade Universitária",
+		"city" : "Maceió",
+		"state" : "AL"
+	},
+	{
+		"id_address" : 68,
+		"street" : "Avenida Fernandes Lima",
+		"number" : "548",
+		"district" : "Farol",
+		"city" : "Maceió",
+		"state" : "AL"
+	},
+	{
+		"id_address" : 69,
+		"street" : "Pça. Nicola Vivilechio",
+		"number" : "103",
+		"district" : "Jardim Bom Tempo",
+		"city" : "Taboão da Serra",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 70,
+		"street" : "Av. Francisco Pereira Lopes",
+		"number" : "1701",
+		"district" : "Jardim Bandeirantes",
+		"city" : "São Carlos",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 71,
+		"street" : "Av. Tancredo de Almeida Neves",
+		"number" : "165",
+		"district" : "Tancredo Neves",
+		"city" : "Cuiabá",
+		"state" : "MT"
+	},
+	{
+		"id_address" : 72,
+		"street" : "Av. Historiador Rubens de Mendonça",
+		"number" : "42/43",
+		"district" : "Alvorada",
+		"city" : "Cuiabá",
+		"state" : "MT"
+	},
+	{
+		"id_address" : 73,
+		"street" : "Avenida Doutor Silas Munguba",
+		"number" : "643",
+		"district" : "Parangaba",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 74,
+		"street" : "Avenida Senador Filinto Müller",
+		"number" : "28",
+		"district" : "Goiabeiras",
+		"city" : "Cuiabá",
+		"state" : "MT"
+	},
+	{
+		"id_address" : 75,
+		"street" : "Rua Manuel Castelo Branco",
+		"number" : "352",
+		"district" : "Messejana",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 76,
+		"street" : "Rua Coronel Matos Dourado",
+		"number" : "1280",
+		"district" : "Dom Lustosa",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 77,
+		"street" : "Av. Washington Soares",
+		"number" : "4335",
+		"district" : "Edson Queiroz",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 78,
+		"street" : "Rua Doutor Gilberto Studart",
+		"number" : "155",
+		"district" : "Cocó",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 79,
+		"street" : "Rua Waldir Diogo",
+		"number" : "1138",
+		"district" : "Manuel Sátiro",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 80,
+		"street" : "Av. Santos Dumont",
+		"number" : "3060(loja12a20)",
+		"district" : "Aldeota",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 81,
+		"street" : "Av. Barão de Studart",
+		"number" : "2200",
+		"district" : "Joaquim Távora",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 82,
+		"street" : "Av. Washington Soares",
+		"number" : "1550",
+		"district" : "Edson Queiroz",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 83,
+		"street" : "Avenida Bezerra de Menezes",
+		"number" : "2450",
+		"district" : "São Gerardo",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 84,
+		"street" : "Av. Eng. Santana Jr.",
+		"number" : "699",
+		"district" : "Papicu",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 85,
+		"street" : "Rua Tibúrcio Cavalcante",
+		"number" : "1885",
+		"district" : "Meireles",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 86,
+		"street" : "Avenida dos Expedicionários",
+		"number" : "4444",
+		"district" : "Benfica",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 87,
+		"street" : "Avenida Senador Virgílio Távora",
+		"number" : "303",
+		"district" : "Meireles",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 88,
+		"street" : "Avenida Oliveira Paiva",
+		"number" : "1350",
+		"district" : "Cidade dos Funcionários",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 89,
+		"street" : "Avenida Lineu Machado",
+		"number" : "419",
+		"district" : "Jóquei Clube",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 90,
+		"street" : "Avenida Expedito Garcia",
+		"number" : "281",
+		"district" : "Campo Grande",
+		"city" : "Cariacica",
+		"state" : "ES"
+	},
+	{
+		"id_address" : 91,
+		"street" : "Rua Carlos Vasconcelos",
+		"number" : "284",
+		"district" : "Meireles",
+		"city" : "Fortaleza",
+		"state" : "CE"
+	},
+	{
+		"id_address" : 92,
+		"street" : "Reta da Penha",
+		"number" : "2150",
+		"district" : "Barro Vermelho",
+		"city" : "Vitória",
+		"state" : "ES"
+	},
+	{
+		"id_address" : 93,
+		"street" : "Avenida BNH",
+		"number" : "57",
+		"district" : "Parque Residencial Laranjeiras",
+		"city" : "Serra",
+		"state" : "ES"
+	},
+	{
+		"id_address" : 94,
+		"street" : "Rua Joaquim Lírio",
+		"number" : "455",
+		"district" : "Praia do Canto",
+		"city" : "Vitória",
+		"state" : "ES"
+	},
+	{
+		"id_address" : 95,
+		"street" : "Rua Joaquim Lírio",
+		"number" : "455",
+		"district" : "Praia do Canto",
+		"city" : "Vitória",
+		"state" : "ES"
+	},
+	{
+		"id_address" : 96,
+		"street" : "Rua Quinze de Novembro",
+		"number" : "1123",
+		"district" : "Centro",
+		"city" : "Vila Velha",
+		"state" : "ES"
+	},
+	{
+		"id_address" : 97,
+		"street" : "Avenida Rio Verde",
+		"number" : "s",
+		"district" : "Jardim Nova Era",
+		"city" : "Aparecida de Goiânia",
+		"state" : "GO"
+	},
+	{
+		"id_address" : 98,
+		"street" : "Rua Leopoldo Machado",
+		"number" : "2334",
+		"district" : "Central",
+		"city" : "Macapá",
+		"state" : "AP"
+	},
+	{
+		"id_address" : 99,
+		"street" : "Rua Sete de Setembro",
+		"number" : "555",
+		"district" : "Cidade Cruzeiro do Sul",
+		"city" : "Suzano",
+		"state" : "SP"
+	},
+	{
+		"id_address" : 100,
+		"street" : "Rua Coronel Moreira César",
+		"number" : "26",
+		"district" : "Icaraí",
+		"city" : "Niterói",
+		"state" : "RJ"
+	},
+	{
+		"id_address" : 101,
+		"street" : "Rua Tiradentes",
+		"number" : "55 ",
+		"district" : "Inga",
+		"city" : "Niterói",
+		"state" : "RJ"
+	}
+]

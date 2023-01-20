@@ -37,8 +37,8 @@ CREATE TABLE `Tb_schedules` (
 CREATE TABLE `Tb_unit` (
     `id_unit` INTEGER NOT NULL AUTO_INCREMENT,
     `name` VARCHAR(150) NOT NULL,
-    `Fk_id_address` INTEGER NOT NULL,
-    `Fk_id_situation` INTEGER NOT NULL,
+    `Fk_id_address` INTEGER NULL,
+    `Fk_id_situation` INTEGER NULL,
 
     UNIQUE INDEX `Tb_unit_Fk_id_address_key`(`Fk_id_address`),
     UNIQUE INDEX `Tb_unit_Fk_id_situation_key`(`Fk_id_situation`),
@@ -54,10 +54,10 @@ CREATE TABLE `Tb_unit_schedules` (
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- AddForeignKey
-ALTER TABLE `Tb_unit` ADD CONSTRAINT `Tb_unit_Fk_id_address_fkey` FOREIGN KEY (`Fk_id_address`) REFERENCES `Tb_address`(`id_address`) ON DELETE RESTRICT ON UPDATE CASCADE;
+ALTER TABLE `Tb_unit` ADD CONSTRAINT `Tb_unit_Fk_id_address_fkey` FOREIGN KEY (`Fk_id_address`) REFERENCES `Tb_address`(`id_address`) ON DELETE SET NULL ON UPDATE CASCADE;
 
 -- AddForeignKey
-ALTER TABLE `Tb_unit` ADD CONSTRAINT `Tb_unit_Fk_id_situation_fkey` FOREIGN KEY (`Fk_id_situation`) REFERENCES `Tb_situation`(`id_situation`) ON DELETE RESTRICT ON UPDATE CASCADE;
+ALTER TABLE `Tb_unit` ADD CONSTRAINT `Tb_unit_Fk_id_situation_fkey` FOREIGN KEY (`Fk_id_situation`) REFERENCES `Tb_situation`(`id_situation`) ON DELETE SET NULL ON UPDATE CASCADE;
 
 -- AddForeignKey
 ALTER TABLE `Tb_unit_schedules` ADD CONSTRAINT `Tb_unit_schedules_Fk_id_unit_fkey` FOREIGN KEY (`Fk_id_unit`) REFERENCES `Tb_unit`(`id_unit`) ON DELETE RESTRICT ON UPDATE CASCADE;

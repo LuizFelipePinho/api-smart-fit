@@ -1,0 +1,2319 @@
+[
+	{
+		"id_schedules" : 1,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 2,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 3,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "23h"
+	},
+	{
+		"id_schedules" : 4,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 5,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 6,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 7,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 8,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 9,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 10,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 11,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 12,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 13,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 14,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 15,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 16,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 17,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 18,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 19,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 20,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 21,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 22,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 23,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 24,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "19h"
+	},
+	{
+		"id_schedules" : 25,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "15h"
+	},
+	{
+		"id_schedules" : 26,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 27,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 28,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 29,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 30,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 31,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "10h",
+		"weekday_hour_close" : "16h"
+	},
+	{
+		"id_schedules" : 32,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "12h"
+	},
+	{
+		"id_schedules" : 33,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "15h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 34,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 35,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 36,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "14h"
+	},
+	{
+		"id_schedules" : 37,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 38,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 39,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "16h"
+	},
+	{
+		"id_schedules" : 40,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 41,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 42,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "16h"
+	},
+	{
+		"id_schedules" : 43,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "05h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 44,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 45,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 46,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 47,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "16h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 48,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "09h"
+	},
+	{
+		"id_schedules" : 49,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "13h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 50,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "12h"
+	},
+	{
+		"id_schedules" : 51,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 52,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 53,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 54,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 55,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 56,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 57,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 58,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 59,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 60,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 61,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 62,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 63,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "16h",
+		"weekday_hour_close" : "00h"
+	},
+	{
+		"id_schedules" : 64,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "15h"
+	},
+	{
+		"id_schedules" : 65,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 66,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 67,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "10h",
+		"weekday_hour_close" : "14h"
+	},
+	{
+		"id_schedules" : 68,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 69,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 70,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "16h"
+	},
+	{
+		"id_schedules" : 71,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 72,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "13h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 73,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "13h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 74,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 75,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 76,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "16h"
+	},
+	{
+		"id_schedules" : 77,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 78,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 79,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 80,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 81,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "15h"
+	},
+	{
+		"id_schedules" : 82,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "10h",
+		"weekday_hour_close" : "14h"
+	},
+	{
+		"id_schedules" : 83,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "12h"
+	},
+	{
+		"id_schedules" : 84,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 85,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 86,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 87,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "15h"
+	},
+	{
+		"id_schedules" : 88,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 89,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "10h",
+		"weekday_hour_close" : "16h"
+	},
+	{
+		"id_schedules" : 90,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 91,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "15h"
+	},
+	{
+		"id_schedules" : 92,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "09h"
+	},
+	{
+		"id_schedules" : 93,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 94,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "18h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 95,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "15h"
+	},
+	{
+		"id_schedules" : 96,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 97,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "09h"
+	},
+	{
+		"id_schedules" : 98,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "16h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 99,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 100,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 101,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 102,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 103,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 104,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 105,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 106,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 107,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "14h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 108,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 109,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 110,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 111,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 112,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 113,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "07h",
+		"weekday_hour_close" : "13h"
+	},
+	{
+		"id_schedules" : 114,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 115,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 116,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 117,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 118,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 119,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 120,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 121,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 122,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 123,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 124,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 125,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 126,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 127,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 128,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 129,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 130,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 131,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 132,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 133,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "14h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 134,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 135,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 136,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 137,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 138,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 139,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 140,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "14h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 141,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h30",
+		"weekday_hour_close" : "08h30"
+	},
+	{
+		"id_schedules" : 142,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "15h"
+	},
+	{
+		"id_schedules" : 143,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 144,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 145,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 146,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 147,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 148,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 149,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 150,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 151,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 152,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 153,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 154,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 155,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 156,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 157,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 158,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 159,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 160,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 161,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 162,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 163,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 164,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 165,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 166,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 167,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 168,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 169,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 170,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 171,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 172,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 173,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 174,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 175,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 176,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 177,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 178,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 179,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 180,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 181,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 182,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 183,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 184,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "05h",
+		"weekday_hour_close" : "19h"
+	},
+	{
+		"id_schedules" : 185,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 186,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 187,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 188,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 189,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 190,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 191,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 192,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 193,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 194,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 195,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 196,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 197,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 198,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 199,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 200,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 201,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 202,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 203,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 204,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 205,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 206,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 207,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 208,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 209,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 210,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 211,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 212,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 213,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 214,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 215,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 216,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 217,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 218,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 219,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "10h"
+	},
+	{
+		"id_schedules" : 220,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 221,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 222,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 223,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 224,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 225,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 226,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 227,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 228,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 229,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "16h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 230,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "15h"
+	},
+	{
+		"id_schedules" : 231,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "12h"
+	},
+	{
+		"id_schedules" : 232,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "15h"
+	},
+	{
+		"id_schedules" : 233,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "16h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 234,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "16h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 235,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 236,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 237,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 238,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h30",
+		"weekday_hour_close" : "09h30"
+	},
+	{
+		"id_schedules" : 239,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "12h"
+	},
+	{
+		"id_schedules" : 240,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 241,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 242,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 243,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 244,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 245,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 246,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 247,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 248,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "12h"
+	},
+	{
+		"id_schedules" : 249,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "16h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 250,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 251,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 252,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 253,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 254,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 255,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 256,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 257,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 258,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 259,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 260,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 261,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 262,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 263,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 264,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 265,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "17h"
+	},
+	{
+		"id_schedules" : 266,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 267,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 268,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 269,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 270,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 271,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 272,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 273,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 274,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "11h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 275,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "11h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 276,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 277,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 278,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 279,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 280,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 281,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 282,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 283,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 284,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 285,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 286,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 287,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 288,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 289,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 290,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 291,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "11h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 292,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 293,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "11h",
+		"weekday_hour_close" : "20h"
+	},
+	{
+		"id_schedules" : 294,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 295,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 296,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 297,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 298,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 299,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 300,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 301,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 302,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 303,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 304,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 305,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 306,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 307,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 308,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 309,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 310,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 311,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 312,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 313,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 314,
+		"weekday_open" : "Seg",
+		"weekday_close" : "sSex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 315,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 316,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "09h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 317,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "12h"
+	},
+	{
+		"id_schedules" : 318,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "17h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 319,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "07h",
+		"weekday_hour_close" : "12h"
+	},
+	{
+		"id_schedules" : 320,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "15h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 321,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 322,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "12h",
+		"weekday_hour_close" : "16h"
+	},
+	{
+		"id_schedules" : 323,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 324,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 325,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "07h",
+		"weekday_hour_close" : "14h"
+	},
+	{
+		"id_schedules" : 326,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "06h",
+		"weekday_hour_close" : "21h"
+	},
+	{
+		"id_schedules" : 327,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	},
+	{
+		"id_schedules" : 328,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "08h",
+		"weekday_hour_close" : "18h"
+	},
+	{
+		"id_schedules" : 329,
+		"weekday_open" : "Sáb",
+		"weekday_close" : "Sáb",
+		"weekday_hour_open" : "07h",
+		"weekday_hour_close" : "14h"
+	},
+	{
+		"id_schedules" : 330,
+		"weekday_open" : "Seg",
+		"weekday_close" : "Sex",
+		"weekday_hour_open" : "07h",
+		"weekday_hour_close" : "22h"
+	},
+	{
+		"id_schedules" : 331,
+		"weekday_open" : "Dom",
+		"weekday_close" : "Dom",
+		"weekday_hour_open" : "Fechada",
+		"weekday_hour_close" : "Fechada"
+	}
+]

@@ -43,11 +43,11 @@ model Tb_schedules {
 model Tb_unit {
   id_unit Int    @id @default(autoincrement())
   name    String @db.VarChar(150)
-  tb_address Tb_address @relation(fields: [Fk_id_address], references: [id_address])
-  Fk_id_address Int @unique
-  tb_situation Tb_situation @relation(fields: [Fk_id_situation], references: [id_situation])
-  Fk_id_situation Int @unique
+  Fk_id_address Int? @unique 
+  Fk_id_situation Int? @unique
   tb_schedules  Tb_unit_schedules[]
+  tb_address Tb_address? @relation(fields: [Fk_id_address], references: [id_address])
+  tb_situation Tb_situation? @relation(fields: [Fk_id_situation], references: [id_situation])
 }
 
 model Tb_unit_schedules {

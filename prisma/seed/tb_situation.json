@@ -1,0 +1,810 @@
+[
+	{
+		"id_situation" : 1,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 2,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 3,
+		"opened" : true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 4,
+		"opened" :  true,
+		"mask" : "recommended",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 5,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "not_allowed",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 6,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 7,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 8,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 9,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 10,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 11,
+		"opened" :  false,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 12,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "not_allowed",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 13,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 14,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "not_allowed",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 15,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 16,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 17,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 18,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 19,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 20,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 21,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 22,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 23,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 24,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 25,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 26,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 27,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 28,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 29,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 30,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 31,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 32,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 33,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 34,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 35,
+		"opened" :  true,
+		"mask" : "recommended",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 36,
+		"opened" :  true,
+		"mask" : "recommended",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 37,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 38,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 39,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 40,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 41,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 42,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 43,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 44,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 45,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 46,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 47,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 48,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 49,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 50,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 51,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 52,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 53,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 54,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 55,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 56,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 57,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 58,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "not_allowed",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 59,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 60,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 61,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 62,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 63,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 64,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 65,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 66,
+		"opened" :  true,
+		"mask" : "recommended",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 67,
+		"opened" :  true,
+		"mask" : "recommended",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 68,
+		"opened" :  true,
+		"mask" : "recommended",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 69,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "not_allowed",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 70,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 71,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 72,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 73,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 74,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 75,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 76,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 77,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 78,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 79,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 80,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 81,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 82,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 83,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 84,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 85,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 86,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 87,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 88,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 89,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 90,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 91,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 92,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 93,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 94,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 95,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 96,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "allowed"
+	},
+	{
+		"id_situation" : 97,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 98,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "recommended",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 99,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "closed"
+	},
+	{
+		"id_situation" : 100,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	},
+	{
+		"id_situation" : 101,
+		"opened" :  true,
+		"mask" : "required",
+		"towel" : "required",
+		"fountain" : "partial",
+		"locker_room" : "partial"
+	}
+]

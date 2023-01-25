@@ -5,7 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/index.js",
     "start": "nodemon src/index.js",
     "seed": "node ./prisma/seed/seed.js",
     "migrate": "npx prisma migrate dev --name db-smart-api",

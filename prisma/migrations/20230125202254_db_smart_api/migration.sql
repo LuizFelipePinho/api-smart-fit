@@ -49,8 +49,9 @@ CREATE TABLE `Tb_unit` (
 CREATE TABLE `Tb_unit_schedules` (
     `Fk_id_unit` INTEGER NOT NULL,
     `Fk_id_schedules` INTEGER NOT NULL,
+    `id_unit_schedule` INTEGER NOT NULL AUTO_INCREMENT,
 
-    PRIMARY KEY (`Fk_id_unit`, `Fk_id_schedules`)
+    PRIMARY KEY (`id_unit_schedule`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- AddForeignKey

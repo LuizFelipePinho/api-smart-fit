@@ -55,5 +55,8 @@ model Tb_unit_schedules {
   Fk_id_unit Int
   tb_schedules Tb_schedules @relation(fields: [Fk_id_schedules], references: [id_schedules])
   Fk_id_schedules Int
-  @@id([Fk_id_unit, Fk_id_schedules])
+  // @@id([Fk_id_unit, Fk_id_schedules])
+  id_unit_schedule Int @id @default(autoincrement())
+
+
 }

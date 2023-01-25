@@ -21,6 +21,8 @@ app.get("/", async (req, res) => {
   });
 
   res.json(units);
+  // res.json({"status":"funcionando zé"});
+
 });
 
 const server = app.listen(port, () =>

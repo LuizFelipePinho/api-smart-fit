@@ -1,5 +1,5 @@
 <h1 align="center">API SmartFit</h1>
-<p align="center">Está é uma API REST que devolve informações sobre unidades da SmartFit.</p>
+<p align="center">Esta é uma API REST que devolve informações sobre unidades da SmartFit.</p>
 
 ### Pré-requisitos
 

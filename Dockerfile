@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:18
 
 WORKDIR /app
 
@@ -18,5 +18,6 @@ RUN npx prisma generate
 
 EXPOSE 3000
 
+# ENTRYPOINT ["npm", "start"]
 CMD ["npm", "start"]
 

@@ -17,6 +17,6 @@ RUN npm install -g prisma
 RUN npx prisma generate
 
 EXPOSE 3000
-ENTRYPOINT exec npm run migrate & npm start
-# CMD ["npm", "start"]
+
+CMD ["npm", "start"]
 

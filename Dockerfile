@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:alpine
 
 WORKDIR /app
 
@@ -17,7 +17,6 @@ RUN npm install -g prisma
 RUN npx prisma generate
 
 EXPOSE 3000
-
-# ENTRYPOINT ["npm", "start"]
-CMD ["npm", "start"]
+ENTRYPOINT exec npm run migrate & npm start
+# CMD ["npm", "start"]
 

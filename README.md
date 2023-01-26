@@ -36,3 +36,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [Prisma](https://www.prisma.io/)
 - [MySQL](https://www.mysql.com/)
+
+
+### Autor
+---
+
+<a href="https://www.linkedin.com/in/luiz-felipe-pinho">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47011421?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Luiz Felipe Pinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+
+
+Feito na força do ódio e paixão. 🦾❤️ 

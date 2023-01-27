@@ -24,7 +24,11 @@ $ docker container exec smartfit npm run migrate
 # Crie os dados no banco de dados
 $ docker container exec smartfit npm run seed
 
-# O servidor iniciará na porta:3000 - acesse no navegador ou em qualquer software para teste de API o link http://localhost:3000/
+# Dê um restart no container
+$ docker restart smartfit 
+
+# O servidor iniciará na porta:3000 - acesse no navegador ou em qualquer software para teste de API o link 
+http://localhost:3000/
 
 ```
 

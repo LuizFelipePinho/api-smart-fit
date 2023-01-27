@@ -12,7 +12,7 @@ services:
   
   app:
     build: . 
-    command: npm start
+    # command: npm start
     container_name: smartfit
     restart: always 
     ports:

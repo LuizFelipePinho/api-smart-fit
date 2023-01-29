@@ -22,7 +22,7 @@ RUN npx prisma generate
 
 EXPOSE 3000
 
-ENTRYPOINT npx prisma migrate dev --name db-smart-api & npm start
+# ENTRYPOINT  npx prisma migrate dev --name db-smart-api & npm start
 
 # CMD ["npm", "start"]
 

@@ -18,7 +18,7 @@ $ cd api-smart-fit
 # Execute esse comando para criar os containers do Node e Mysql e iniciar a aplicação  
 $ docker-compose up 
 
-# O servidor iniciará na porta:3000 - acesse no navegador ou em qualquer software para teste de API o link 
+# O servidor iniciará na porta:3000 - acesse no navegador ou em qualquer software para teste de API
 http://localhost:3000/
 
 ```
@@ -29,6 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Docker](https://www.docker.com/)
 - [Node.js](https://nodejs.org/en/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Prisma](https://www.prisma.io/)
 - [MySQL](https://www.mysql.com/)
 

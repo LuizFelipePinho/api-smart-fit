@@ -15,17 +15,8 @@ $ git clone https://github.com/LuizFelipePinho/api-smart-fit.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd api-smart-fit
 
-# Execute esse comando para criar os containers do Node, Mysql e suas dependências  
-$ docker-compose up -d
-
-# Faça a migração dos dados
-$ docker container exec smartfit npm run migrate
-
-# Crie os dados no banco de dados
-$ docker container exec smartfit npm run seed
-
-# Dê um restart no container
-$ docker restart smartfit 
+# Execute esse comando para criar os containers do Node e Mysql e iniciar a aplicação  
+$ docker-compose up 
 
 # O servidor iniciará na porta:3000 - acesse no navegador ou em qualquer software para teste de API o link 
 http://localhost:3000/

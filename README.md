@@ -6,7 +6,7 @@
 Antes de começar, você vai precisar ter instalado em sua máquina o [Docker](https://www.docker.com/). 
  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando a aplicação:
+### 🎲 Rodando a aplicação localmente:
 
 ```bash
 # Clone este repositório

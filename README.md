@@ -30,6 +30,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Docker](https://www.docker.com/)
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Express.js](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/)
 - [MySQL](https://www.mysql.com/)
 
